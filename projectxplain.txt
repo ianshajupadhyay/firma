@@ -1,0 +1,6 @@
+Our system is a complete solution for the agriculture industry as we can do real-time farm analysis, 
+receive expert advice using image processing, generate market mood for farmer thus removing middle man 
+and finally display government schemes for farmers.
+
+This is the video link :
+https://drive.google.com/file/d/1drlsQHVYicM9V9td4CTxtqdLo9e-mKUG/view?usp=drivesdk
